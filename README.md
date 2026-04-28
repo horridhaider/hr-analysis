@@ -6,6 +6,10 @@ An end-to-end HR data analysis project built in Python, covering data cleaning, 
 
 This project analyzes HR data to uncover patterns in employee demographics, performance, attrition, and compensation. The goal is to provide actionable insights that support data-driven HR decisions.
 
+## Sample Visualizations
+
+![Attrition by Department](plots/attrition_by_dept.png)
+
 ## Project Structure
 
 ```
