@@ -9,6 +9,8 @@ This project analyzes HR data to uncover patterns in employee demographics, perf
 ## Sample Visualizations
 
 <img width="500" alt="status_performance_count" src="https://github.com/user-attachments/assets/cd69c8fd-3c70-4145-b80b-3a5e2eff1e14" />
+<img width="500" alt="salary_by_department" src="https://github.com/user-attachments/assets/5b13ebfb-cfc9-4f0a-9ec1-6b9dd52f347c" />
+
 
 
 ## Project Structure
